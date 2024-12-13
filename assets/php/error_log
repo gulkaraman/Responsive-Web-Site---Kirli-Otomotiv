@@ -1,0 +1,82 @@
+[26-Oct-2024 20:18:36 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[26-Oct-2024 20:18:36 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[26-Oct-2024 20:18:36 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[26-Oct-2024 20:18:36 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[26-Oct-2024 20:18:36 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[26-Oct-2024 20:18:36 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[05-Nov-2024 18:15:03 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[05-Nov-2024 18:15:03 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[05-Nov-2024 18:15:03 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[05-Nov-2024 18:15:03 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[05-Nov-2024 18:15:03 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[05-Nov-2024 18:15:03 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[14-Nov-2024 15:53:24 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[14-Nov-2024 15:53:24 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[14-Nov-2024 15:53:24 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[14-Nov-2024 15:53:24 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[14-Nov-2024 15:53:24 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[14-Nov-2024 15:53:24 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[19-Nov-2024 19:23:27 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[19-Nov-2024 19:23:27 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[19-Nov-2024 19:23:27 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[19-Nov-2024 19:23:27 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[19-Nov-2024 19:23:27 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[19-Nov-2024 19:23:27 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[21-Nov-2024 09:25:04 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[21-Nov-2024 09:25:04 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[21-Nov-2024 09:25:04 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[21-Nov-2024 09:25:04 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[21-Nov-2024 09:25:04 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[21-Nov-2024 09:25:04 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[24-Nov-2024 14:54:13 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[24-Nov-2024 14:54:13 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[24-Nov-2024 14:54:13 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[24-Nov-2024 14:54:13 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[24-Nov-2024 14:54:14 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[24-Nov-2024 14:54:14 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[26-Nov-2024 20:36:33 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[26-Nov-2024 20:36:33 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[26-Nov-2024 20:36:33 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[26-Nov-2024 20:36:33 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[26-Nov-2024 20:36:33 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[26-Nov-2024 20:36:33 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[27-Nov-2024 12:29:07 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[27-Nov-2024 12:29:07 Europe/Istanbul] PHP Notice:  Undefined index: contact-name in /home/kirlioto/public_html/assets/php/sendmail.php on line 10
+[27-Nov-2024 12:29:07 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[27-Nov-2024 12:29:07 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[27-Nov-2024 12:29:07 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[27-Nov-2024 12:29:07 Europe/Istanbul] PHP Notice:  Undefined index: contact-message in /home/kirlioto/public_html/assets/php/sendmail.php on line 14
+[27-Nov-2024 12:29:07 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[27-Nov-2024 12:29:07 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[29-Nov-2024 08:18:25 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[29-Nov-2024 08:18:25 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[29-Nov-2024 08:18:25 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[29-Nov-2024 08:18:25 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[29-Nov-2024 08:18:25 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[29-Nov-2024 08:18:25 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[02-Dec-2024 11:52:49 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[02-Dec-2024 11:52:49 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[02-Dec-2024 11:52:49 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[02-Dec-2024 11:52:49 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[02-Dec-2024 11:52:49 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[02-Dec-2024 11:52:49 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[07-Dec-2024 06:57:48 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[07-Dec-2024 06:57:48 Europe/Istanbul] PHP Notice:  Undefined index: contact-name in /home/kirlioto/public_html/assets/php/sendmail.php on line 10
+[07-Dec-2024 06:57:48 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[07-Dec-2024 06:57:48 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[07-Dec-2024 06:57:48 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[07-Dec-2024 06:57:48 Europe/Istanbul] PHP Notice:  Undefined index: contact-message in /home/kirlioto/public_html/assets/php/sendmail.php on line 14
+[07-Dec-2024 06:57:48 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[07-Dec-2024 06:57:48 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[08-Dec-2024 09:17:22 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[08-Dec-2024 09:17:22 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[08-Dec-2024 09:17:22 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[08-Dec-2024 09:17:22 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[08-Dec-2024 09:17:22 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[08-Dec-2024 09:17:22 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
+[10-Dec-2024 21:52:03 Europe/Istanbul] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/kirlioto/public_html/assets/php/PHPMailer/PHPMailerAutoload.php on line 45
+[10-Dec-2024 21:52:03 Europe/Istanbul] PHP Notice:  Undefined index: contact-telephone in /home/kirlioto/public_html/assets/php/sendmail.php on line 11
+[10-Dec-2024 21:52:03 Europe/Istanbul] PHP Notice:  Undefined index: scontact-email in /home/kirlioto/public_html/assets/php/sendmail.php on line 12
+[10-Dec-2024 21:52:03 Europe/Istanbul] PHP Notice:  Undefined index: contact-subject in /home/kirlioto/public_html/assets/php/sendmail.php on line 13
+[10-Dec-2024 21:52:03 Europe/Istanbul] PHP Notice:  Undefined variable: body in /home/kirlioto/public_html/assets/php/sendmail.php on line 30
+[10-Dec-2024 21:52:03 Europe/Istanbul] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/kirlioto/public_html/assets/php/PHPMailer/class.phpmailer.php on line 1442
